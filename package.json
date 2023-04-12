@@ -4,7 +4,7 @@
   "description": "A minimalist theme with limited syntax highlighting",
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-mnml-theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "icon": "icon.png",
   "keywords": [
