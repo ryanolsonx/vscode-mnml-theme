@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+rm -rf ~/.vscode/extensions/mnml
+ln -s ~/r/vscode-mnml-theme ~/.vscode/extensions/mnml
