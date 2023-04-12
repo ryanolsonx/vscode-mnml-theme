@@ -148,7 +148,10 @@
     "titleBar.inactiveBackground": "#f8f8f8",
     "titleBar.inactiveForeground": "#8b949e",
     "welcomePage.tileBackground": "#f3f3f3",
-    "widget.border": "#d4d4d4"
+    "widget.border": "#d4d4d4",
+    "editorBracketHighlight.foreground1": "#3150db",
+    "editorBracketHighlight.foreground2": "#319331",
+    "editorBracketHighlight.foreground3": "#7b3814"
     //"activityBar.dropBorder": "#1f1f1f",
     //"banner.background": "#a2a2a2",
     //"banner.foreground": "#000000",
@@ -234,9 +237,6 @@
     //"editor.wordHighlightStrongBackground": "#0e639c40",
     //"editor.wordHighlightTextBackground": "#57575740",
     //"editorActiveLineNumber.foreground": "#0b216f",
-    //"editorBracketHighlight.foreground1": "#0431fa",
-    //"editorBracketHighlight.foreground2": "#319331",
-    //"editorBracketHighlight.foreground3": "#7b3814",
     //"editorBracketHighlight.foreground4": "#00000000",
     //"editorBracketHighlight.foreground5": "#00000000",
     //"editorBracketHighlight.foreground6": "#00000000",
