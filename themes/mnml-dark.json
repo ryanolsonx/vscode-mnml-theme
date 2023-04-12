@@ -709,13 +709,6 @@
         "foreground": "#71ADE7"
       }
     },
-    // {
-    //   "name": "Punctuation",
-    //   "scope": "storage.type.function.arrow.js, punctuation.definition.variable, punctuation.definition, punctuation - punctuation.section, keyword.operator, punctuation.definition.comment",
-    //   "settings": {
-    //     "foreground": "#708B8D"
-    //   }
-    // },
     // Other "Chrome"
     {
       "scope": "emphasis",
