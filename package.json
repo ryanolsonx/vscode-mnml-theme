@@ -25,6 +25,11 @@
         "label": "mnml dark",
         "uiTheme": "vs-dark",
         "path": "./themes/mnml-dark.json"
+      },
+      {
+        "label": "mnml light",
+        "uiTheme": "vs",
+        "path": "./themes/mnml-light.json"
       }
     ]
   }
